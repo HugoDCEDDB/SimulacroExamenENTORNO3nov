@@ -12,9 +12,9 @@ public class Ejercicio1 {
         double x2 = s2 / 10;
         double y2 = x2 * 4;
         System.out.println("Habitacion 2: " + x2 + " litros, " + y2 + " euros");
-        double tl = x1 + x2;
+        double tl = x1 * x2;
         System.out.println("Total de litros: " + tl);
-        double te = y1 + y1;
+        double te = y1 + y2;
         System.out.println("Total de euros: " + te);
     }
 }
