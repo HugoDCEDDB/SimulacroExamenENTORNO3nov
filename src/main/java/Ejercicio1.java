@@ -18,5 +18,3 @@ public class Ejercicio1 {
         System.out.println("Total de euros: " + te);
     }
 }
-
-// prueba commit
